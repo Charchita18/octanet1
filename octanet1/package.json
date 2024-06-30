@@ -1,0 +1,14 @@
+{
+  "name": "octanet1",
+  "version": "1.0.0",
+  "description": "A simple landing page project",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server"
+  },
+  "author": "charchita",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
